@@ -1,2 +1,4 @@
-# hello-world
-Going through the Hello World tutorial.
+hello-world
+==============
+
+A SQL query goes into a bar, walks up to two tables and asks, "Can I join you?"
